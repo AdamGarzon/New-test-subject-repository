@@ -3,3 +3,4 @@ This is a second line.
 
 The 4th line is way cooler than the rest :-)
 This is another line in the new branch
+One more line has been added to the branch
