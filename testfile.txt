@@ -1,3 +1,5 @@
 This is a new file. it's got one line. How exciting.
 This is a second line.
-And a third.
+
+The 4th line is way cooler than the rest :-)
+This is another line in the new branch
